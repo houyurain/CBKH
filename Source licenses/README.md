@@ -1,4 +1,4 @@
-** Source information
+Source information
 
 <table>
 	<thead>

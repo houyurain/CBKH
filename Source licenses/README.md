@@ -1,4 +1,4 @@
-Source licenses
+** Source information
 
 <table>
 	<thead>

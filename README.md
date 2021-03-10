@@ -1,4 +1,7 @@
 # Comprehensive Biomedical Knowledge Hub (CBKH)
+Introduction
+
+## Materials and Methods
 
 ## Statistics of CBKH
 | Entity Type    | Number    |

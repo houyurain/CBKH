@@ -27,3 +27,6 @@ CBKG integrates data from 15 publicly available biomedical databases. The curren
 | Disease-Symptom	| 3,357      |
 | Gene-Gene	      | 1,605,716  |
 | **Total Relations** | **48,678,651** |
+
+## Licence
+The data of CBKG is licensed under the 

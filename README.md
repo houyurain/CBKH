@@ -6,15 +6,15 @@ Introduction
 ## Materials and Methods
 
 ## Statistics of CBKH
-| Entity Type    | Number    |
-| ---------------|:---------:|
-| Anatomy        | 22,963    |
-| Disease        | 19,637    |
-| Drug           | 25,713    |
-| Gene           | 128,726   |
-| Molecule       | 2,065,359 |
-| Symptom        | 438       |
-| **Total Entities** | **2,262,836** |
+| Entity Type    | Number    | Included Identifiers |
+| ---------------|:---------:|:--------------------:|
+| Anatomy        | 22,963    | Uberon ID, BTO ID, MeSH ID, Cell Ontology ID |
+| Disease        | 18,503    | Disease Ontology ID, KEGG ID, PharmGKB ID, MeSH ID, OMIM ID |
+| Drug           | 36,436    | DrugBank ID, KEGG ID, PharmGKB ID, MeSH ID |
+| Gene           | 87,942    | HGNC ID, NCBI ID, PharmGKB ID |
+| Molecule       | 2,065,015 | CHEMBL ID, CHEBI ID |
+| Symptom        | 438       | MeSH ID |
+| **Total Entities** | **2,231,297** | - |
 
 | Relation Type   |	Number     |
 | ----------------|:----------:|

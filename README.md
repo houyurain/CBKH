@@ -1,7 +1,7 @@
 # Comprehensive Biomedical Knowledge Hub (CBKH)
 Introduction
 
-![Schema](Schema.png)
+![Schema](KG_Schema.png)
 
 ## Materials and Methods
 

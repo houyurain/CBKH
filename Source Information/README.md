@@ -36,13 +36,22 @@
 			<td>https://creativecommons.org/licenses/by/4.0/</td>
 		</tr>
 		<tr>
+			<td>Cell Ontology</td>
+			<td>Cell</td>
+			<td>2,200</td>
+			<td>-</td>
+			<td>-</td>
+			<td>http://obofoundry.org/ontology/cl.html</td>
+			<td>https://creativecommons.org/licenses/by/4.0/</td>
+		</tr>
+		<tr>
 			<td>Comparative Toxicogenomics Database</td>
 			<td> 	Disease, Gene, Chemical, Pathway</td>
 			<td>73,922</td>
 			<td>Chemical-Gene, Chemical-Disease, Chemical-Pathway, Gene-Disease, Gene-Pathway, Disease-Pathway</td>
 			<td>38344568</td>
 			<td>http://ctdbase.org/</td>
-			<td>-</td>
+			<td>https://creativecommons.org/licenses/by/4.0/</td>
 		</tr>
 		<tr>
 			<td>ChEMBL</td>
@@ -87,7 +96,7 @@
 			<td>Drug-Target, Drug-Enzyme, Drug-Carrier, Drug-Transporter</td>
 			<td>28,014</td>
 			<td>https://go.drugbank.com/</td>
-			<td>-</td>
+			<td>http://creativecommons.org/licenses/by-nc/4.0/</td>
 		</tr>
 		<tr>
 			<td>Hetionet</td>
@@ -105,7 +114,7 @@
 			<td>-</td>
 			<td>-</td>
 			<td>https://www.genenames.org/</td>
-			<td>-</td>
+			<td>http://creativecommons.org/licenses/by/4.0/</td>
 		</tr>
 		<tr>
 			<td>KEGG</td>
@@ -114,7 +123,7 @@
 			<td>Drug-Gene, Disease-Gene, Gene-Pathway</td>
 			<td>43,464</td>
 			<td>https://www.kegg.jp/</td>
-			<td>https://www.kegg.jp/kegg/legal.html</td>
+			<td>http://creativecommons.org/licenses/by-nc/2.0/uk/</td>
 		</tr>
 		<tr>
 			<td>PharmGKB</td>

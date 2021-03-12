@@ -4,6 +4,7 @@ CBKG integrates data from 15 publicly available biomedical databases. The curren
 ![Schema](KG_Schema.png)
 
 ## Materials and Methods
+Our ultimate goal was to build a biomedical knowledge graph via comprehensively incorporating biomedical knowledge as much as possible. To this end, we collected and integrated 15 publicly available data sources to curate a comprehensive one. Details of the used data resources were listed in [Table](https://github.com/houyurain/CBKH/blob/main/Source%20Information/README.md).
 
 ## Statistics of CBKH
 | Entity Type    | Number    | Included Identifiers |
